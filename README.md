@@ -1,2 +1,5 @@
 # hello-world
-CP.
+
+Hey everyone! :)
+
+What's going on everyone? 
